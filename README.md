@@ -1,4 +1,4 @@
-# Smart India Hackathon 2026 
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/90301dbb-5d8e-4b2f-9445-cae3da233eea" /># Smart India Hackathon 2026 
 #### Internal Hackathon @ Amrita Vishwa Vidyapeetham, Coimbatore Campus - Organized by Institution's Innovation Council (IIC)
 
 <p align="Center">
@@ -36,6 +36,8 @@
 * **Problem Statement Title:** Multi-modal, Sun angle and scale invariant image correspondence using Chandrayaan-2 optical images (OHRC, TMC and IIRS)
 * **Theme / Category:** Space Technology / Software
 * **Ministry / Organization:** Indian Space Research Organisation (ISRO), Department of Space
+
+  YouTube presentation Video : https://www.youtube.com/watch?v=D80C343Oly0
 
 #### PS#2
 
