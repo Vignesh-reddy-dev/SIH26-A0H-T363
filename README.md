@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/90301dbb-5d8e-4b2f-9445-cae3da233eea" /># Smart India Hackathon 2026 
+# Smart India Hackathon 2026 
 #### Internal Hackathon @ Amrita Vishwa Vidyapeetham, Coimbatore Campus - Organized by Institution's Innovation Council (IIC)
 
 <p align="Center">
