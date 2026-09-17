@@ -12,12 +12,12 @@
 
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender     |    🏫 Department / Programme    |
 |:---------------:|:------------------------|:----------------------:|:-----------------:|:-------------------------------:|
-|   Team Leader   | Y Vignesh Bhupal Reddy  | CB.SC.U4CSE24360       | Male              | BTECH-CSE                       |
-|    Member 2     | NIDHISH KIRAN MH        | CB.SC.U4CSE24334       | Male              | BTECH-CSE                       |
-|    Member 3     | VURIBINDI ROHAN REDDY   | CB.SC.U4CSE24359       | Male              | BTECH-CSE                       |
-|    Member 4     | DARSINI R               | CB.SC.U4CSE24313       | Female            | BTECH-CSE                       |
-|    Member 5     | NIRANJANA P NAIR        | CB.SC.U4CSE24335       | Female            | BTECH-CSE                       |
-|    Member 6     | NANDHANA R              | CB.SC.U4CSE24332       | Female            | BTECH-CSE                       |
+|   Team Leader   | Y Vignesh Bhupal Reddy  | CB.SC.U4CSE24360       | Male              | CSE                       |
+|    Member 2     | NIDHISH KIRAN MH        | CB.SC.U4CSE24334       | Male              | CSE                       |
+|    Member 3     | VURIBINDI ROHAN REDDY   | CB.SC.U4CSE24359       | Male              | CSE                       |
+|    Member 4     | DARSINI R               | CB.SC.U4CSE24313       | Female            | CSE                       |
+|    Member 5     | NIRANJANA P NAIR        | CB.SC.U4CSE24335       | Female            | CSE                       |
+|    Member 6     | NANDHANA R              | CB.SC.U4CSE24332       | Female            | CSE                       |
 
 #### Mentor Details
 
