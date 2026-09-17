@@ -23,7 +23,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:--------------------------|
-| Academic       | Dr. Divya Bharathi P|Assistant Professor.   |   BTECH-CSE             |p_divyabharathi@cb.amrita.edu|
+| Academic       | Dr. Divya Bharathi P|Assistant Professor.   |   CSE             |p_divyabharathi@cb.amrita.edu|
 | Industry       |                     |                       |                         |                          |
 
 -----
