@@ -1,8 +1,8 @@
-# Smart India Hackathon 2026 
+# Smart India Hackathon 2026
 #### Internal Hackathon @ Amrita Vishwa Vidyapeetham, Coimbatore Campus - Organized by Institution's Innovation Council (IIC)
 
 <p align="Center">
-  <img src="assets/images/header.png" width=921 />
+    <img src="assets/images/header.png" width=921 />
 </p>
 
 ## SIH26-A0H-T363
@@ -10,20 +10,20 @@
 #### Team Zenith <br/>
 #### Team Members
 
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender     |    🏫 Department / Programme    |
-|:---------------:|:------------------------|:----------------------:|:-----------------:|:-------------------------------:|
-|   Team Leader   | Y Vignesh Bhupal Reddy  | CB.SC.U4CSE24360       | Male              | CSE                       |
-|    Member 2     | NIDHISH KIRAN MH        | CB.SC.U4CSE24334       | Male              | CSE                       |
-|    Member 3     | VURIBINDI ROHAN REDDY   | CB.SC.U4CSE24359       | Male              | CSE                       |
-|    Member 4     | DARSINI R               | CB.SC.U4CSE24313       | Female            | CSE                       |
-|    Member 5     | NIRANJANA P NAIR        | CB.SC.U4CSE24335       | Female            | CSE                       |
-|    Member 6     | NANDHANA R              | CB.SC.U4CSE24332       | Female            | CSE                       |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender     |    🏫 Department / Programme    | Caste Category | Disability Details |
+|:---------------:|:------------------------|:----------------------:|:-----------------:|:-------------------------------:|:--------------:|:------------------:|
+|   Team Leader   | Y Vignesh Bhupal Reddy  | CB.SC.U4CSE24360       | Male              | CSE                             | OC             | None               |
+|    Member 2     | NIDHISH KIRAN MH        | CB.SC.U4CSE24334       | Male              | CSE                             | BC             | None               |
+|    Member 3     | VURIBINDI ROHAN REDDY   | CB.SC.U4CSE24359       | Male              | CSE                             | OC             | None               |
+|    Member 4     | DARSINI R               | CB.SC.U4CSE24313       | Female            | CSE                             | OBC            | None               |
+|    Member 5     | NIRANJANA P NAIR        | CB.SC.U4CSE24335       | Female            | CSE                             | OC             | None               |
+|    Member 6     | NANDHANA R              | CB.SC.U4CSE24332       | Female            | CSE                             | OC             | None               |
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:--------------------------|
-| Academic       | Dr. Divya Bharathi P|Assistant Professor.   |   CSE             |p_divyabharathi@cb.amrita.edu|
+| Academic       | Dr. Divya Bharathi P| Assistant Professor.  | CSE                     | p_divyabharathi@cb.amrita.edu |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -37,7 +37,7 @@
 * **Theme / Category:** Space Technology / Software
 * **Ministry / Organization:** Indian Space Research Organisation (ISRO), Department of Space
 
-  YouTube presentation Video : https://www.youtube.com/watch?v=D80C343Oly0
+YouTube presentation Video : [https://www.youtube.com/watch?v=D80C343Oly0](https://www.youtube.com/watch?v=D80C343Oly0)
 
 #### PS#2
 
